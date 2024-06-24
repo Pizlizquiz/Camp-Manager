@@ -2,7 +2,8 @@
 <body>
   <h1>🏕️Camp Manager🏕️</h1>
 
-![256986894-cefddfe0-7ab4-47d8-9cb9-c7c9daef0239](https://github.com/Pizlizquiz/Camp-Manager/assets/173635470/e57a1ada-660d-4d21-bfa1-38e726ede9ea)
+![app-screenshot--discover](https://github.com/Pizlizquiz/Camp-Manager/assets/173635470/d719e3be-5647-4dc5-a0ba-3454485edcce)
+
 
 
 
