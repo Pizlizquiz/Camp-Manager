@@ -1,6 +1,6 @@
 </head>
 <body>
-  <h1>🏕️🔥Camp Manager🔥🏕️</h1>
+  <h1>🏕️Camp Manager🏕️</h1>
 
 ![256986894-cefddfe0-7ab4-47d8-9cb9-c7c9daef0239](https://github.com/Pizlizquiz/Camp-Manager/assets/173635470/e57a1ada-660d-4d21-bfa1-38e726ede9ea)
 
